@@ -1,2 +1,2 @@
-# tjrus.github.com
+# tjrus.github.io
 Just for test
